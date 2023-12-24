@@ -3,7 +3,7 @@ console.log(typeof score)
 console.log(typeof(score)) // allowed
 
 let value_in_number = Number(score) 
-//'Number' Starts with uppercase in conversin command
+//'Number' Starts with uppercase in conversion command
 console.log(typeof value_in_number)
 console.log(value_in_number)
 
@@ -18,7 +18,7 @@ let is_logged_in = " "
 console.log(typeof(is_logged_in))
 
 let boolean_is_logged_in = Boolean(is_logged_in)
-//'Boolean' Starts with uppercase in conversin command
+//'Boolean' Starts with uppercase in conversion command
 console.log(typeof(boolean_is_logged_in))
 console.log(boolean_is_logged_in)
 
@@ -33,6 +33,6 @@ console.log(boolean_is_logged_in)
 
 let someNumber = 34
 let stringNumber = String(someNumber)
-//'String' Starts with uppercase in conversin command
+//'String' Starts with uppercase in conversion command
 console.log(stringNumber)
 console.log(typeof(stringNumber))
